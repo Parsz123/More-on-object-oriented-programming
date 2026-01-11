@@ -10,5 +10,5 @@ class I0String():
 
 str1 = I0String()
 
-str1.get_string
-str1.print_string
+str1.get_string()
+str1.print_string()
